@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SydorenkoIllya/static/css/main.68c7ee87.css",
+    "main.js": "/SydorenkoIllya/static/js/main.3177de09.js",
+    "index.html": "/SydorenkoIllya/index.html",
+    "main.68c7ee87.css.map": "/SydorenkoIllya/static/css/main.68c7ee87.css.map",
+    "main.3177de09.js.map": "/SydorenkoIllya/static/js/main.3177de09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c7ee87.css",
+    "static/js/main.3177de09.js"
+  ]
+}
