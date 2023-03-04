@@ -39,7 +39,7 @@ const Navbar = () => {
                     </CustomLink>
 
 
-                    <CustomLink style={{ marginLeft: 'auto', marginRight: '0.2rem' }} to='/news'>
+                    <CustomLink style={{ marginLeft: 'auto', marginRight: '0.2rem', textDecoration: 'none' }} to='/news'>
                         <Button color="inherit" style={{ color: 'white' }}>
                             {t('news')}
                         </Button>
