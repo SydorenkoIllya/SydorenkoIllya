@@ -1,0 +1,15 @@
+{
+    "main": "Головна",
+    "news": " Новини",
+    "login": "Увійти",
+    "logout": "Вийти",
+    "profile": "Профіль",
+    "name": "Ім'я користувача",
+    "username": "Ім'я користувача",
+    "password": "Пароль",
+    "memorize": "Запам'ятати мене",
+    "incorrect": "Не вірне ім'я або пароль",
+    "namesurname": "Ілля Сидоренко",
+    "skills": "Працюю з:HTML, CSS(SASS, SCSS), JS, Rest API, React, Redux/Redux Toolkit, React-router-dom, RTKQuery, redux-thunk, Typescript",
+    "courses": "Закінчив 3 курси на Udemy Івана Петриченка (HTML, CSS, JS and React, Typescript), наразі працюю над своїми пет-проектами."
+}

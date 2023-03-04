@@ -1,0 +1,14 @@
+{
+    "main": "Main page",
+    "news": " News",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "username": "Username",
+    "password": "Password",
+    "memorize": "Remember me",
+    "incorrect": "Incorrect username or password",
+    "namesurname": "Illya Sydorenko",
+    "skills": "Working with:HTML, CSS(SASS, SCSS), JS, Rest API, React, Redux/Redux Toolkit, React-router-dom, RTKQuery, redux-thunk, Typescript",
+    "courses": "Ended 3 Udemy courses by Ivan Petrychenko (HTML, CSS, JS and React, Typescript), currently working on my pet projects."
+}
